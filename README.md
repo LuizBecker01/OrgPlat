@@ -9,7 +9,7 @@
 ## 📦 Tecnologias Utilizadas
 
 - **Frontend**: Next.js + Shadcn UI  
-- **Backend**: Python (com FastAPI)  
+- **Backend**: Java  
 - **Banco de Dados**: PostgreSQL  
 <!-- - **Autenticação**: Biometria & JWT (em planejamento) -->
 
